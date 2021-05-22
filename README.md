@@ -6,7 +6,7 @@ Freamwork: NestJS
 
 [What's Hierarchy](https://en.wikipedia.org/wiki/Hierarchy) 
 
-Use hierarchy for Low-level Message Bot.
+Use hierarchy structure for Low-level Message Bot.
 
 ## Installation
 
