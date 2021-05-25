@@ -15,21 +15,21 @@ Use hierarchy structure for Low-level Message Bot.
 
 ## client
 
-Frontend For Message Service.
+Frontend For Message Bot Service.
 
 ### Installation
 ```bash
-npm i
+$ npm i
 ```
 
 ### Run (Delveopment)
 ```bash
-npm run serve
+$ npm run serve
 ```
 
 ### Deploy (Production)
 ```bash
-npm run deploy
+$ npm run deploy
 ```
 
 ### Links
@@ -39,7 +39,7 @@ npm run deploy
 
 ## server
 
-Backend For Message Service.
+Backend For Message Bot Service.
 
 ### Installation
 ```bash
@@ -48,27 +48,25 @@ $ npm i
 
 ### Run (Development)
 ```bash
-nest start
+$ nest start
 ```
 
 ### Deploy (Production)
 ```bash
-npm i
+$ npm i
 
-npm run build
+$ npm run build
 
-git commit
+$ git commit
 
-git push
+$ git push
 
 // Review Merge to Master Branch
 
-npm run release
+$ npm run release
 
-npm run deploy
+$ npm run deploy
 ```
 
 ### Links
 - [NestJS](https://nestjs.com/)
-
----
