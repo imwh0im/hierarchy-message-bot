@@ -1,0 +1,3 @@
+# API Documents
+
+## [GET] /messages

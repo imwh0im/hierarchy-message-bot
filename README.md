@@ -41,6 +41,8 @@ $ npm run deploy
 
 Backend For Message Bot Service.
 
+[API Documents](/server/ApiDoc.md)
+
 ### Installation
 ```bash
 $ npm i
