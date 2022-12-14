@@ -23,9 +23,9 @@
     "deploy": "echo \"Comming Soon\""
   },
   "dependencies": {
-    "@nestjs/common": "^7.6.13",
+    "@nestjs/common": "^9.2.1",
     "@nestjs/core": "^9.2.1",
-    "@nestjs/mapped-types": "^0.4.1",
+    "@nestjs/mapped-types": "^1.2.0",
     "@nestjs/platform-express": "^9.2.1",
     "class-validator": "^0.13.1",
     "reflect-metadata": "^0.1.13",
